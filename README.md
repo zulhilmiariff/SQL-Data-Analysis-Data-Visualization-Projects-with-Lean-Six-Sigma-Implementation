@@ -14,6 +14,9 @@ In addition, I will be incorporating Lean Six Sigma methodologies in some projec
 * Database Sources
     * Kaggle
     * BigQuery @ Google Cloud
+ 
+*  Lean Six Sigma
+    * DMAIC Methodology
 
 # Projects and Challenges
 
