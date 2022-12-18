@@ -58,3 +58,6 @@ Lean six sigma data analysis project for an Aerospace MRO
 
 ### [PowerBI Essential Training](https://www.linkedin.com/learning/power-bi-essential-training-3/create-rich-interactive-reports-with-power-bi?u=2332706)
 
+## Lean Six Sigma
+
+### [Lean Six Sigma Training](https://www.sixsigmacouncil.org/six-sigma-training-material/)
