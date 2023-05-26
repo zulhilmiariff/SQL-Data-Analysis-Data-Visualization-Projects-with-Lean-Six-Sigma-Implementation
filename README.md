@@ -53,6 +53,7 @@ Lean six sigma data analysis project for an Aerospace MRO
 ## Tableau
 
 ### [My Tableau Public Profile](https://public.tableau.com/app/profile/zulhilmi.ariff)
+### [My Professional Tableau Projects](https://github.com/zulhilmiariff/Tableau-Projects)
 
 ## Microsoft PowerBI
 
